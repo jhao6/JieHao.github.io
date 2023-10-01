@@ -9,17 +9,13 @@ redirect_from:
 ---
 
 I'm a first-year Ph.D. student advised by Prof. [Mingrui Liu](https://mingrliu.github.io/) at [Department of Computer Science](https://cs.gmu.edu/), [George Mason University](https://www.gmu.edu/). Before that, I received my master's degree of compuer science from University of Electronic Science and Technology of China in 2021, advised by [William Zhu](https://scholar.google.com/citations?user=GIwXoWAAAAAJ&hl=zh-CN).
-
-
 Research Interest
 ------
 Bilevel Optimization, Continual Learning, Machine Learning, Optimization.
-
 News
 ------
 - (Sep 2023) One paper was accepted by Neurips 2023. Thanks to my advisor Mingrui and Kaiyi.
 - (May 2023) One paper was accepted by UAI2023.
-
 Publications
 ------
 - (<font color=red>New!</font>) [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://jhao6.github.io/JieHao.github.io/)
