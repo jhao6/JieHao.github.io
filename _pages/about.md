@@ -22,7 +22,7 @@ News
 
 Publications
 ------
-- (New!) Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm
+- (New!) [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm]
   **Jie Hao**, Kaiyi Ji, Mingrui Liu.
   In Advances in Neural Information Processing Systems 37, 2023. (NeurIPS 2023)
 
