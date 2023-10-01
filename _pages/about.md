@@ -27,4 +27,4 @@ Publications
 
 - (<font color=red>New!</font>) [AUC Maximization in Imbalanced Lifelong Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=S8ZTkikAAAAJ&citation_for_view=S8ZTkikAAAAJ:2osOgNQ5qMEC)
   Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.
-  In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (UAI 2023)  
+  In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (UAI 2023)      
