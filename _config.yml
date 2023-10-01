@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Jie Hao"
-  avatar           : "images/jiehao.png"
+  avatar           : 
   bio              : "With only one life, must be passionate."
   location         : "Fairfax, VA, USA"
   employer         :
