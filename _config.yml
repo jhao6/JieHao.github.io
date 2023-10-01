@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Jie Hao"
   avatar           : "images/jiehao.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "With only one life, must be passionate."
+  location         : "Fairfax, VA, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=S8ZTkikAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
