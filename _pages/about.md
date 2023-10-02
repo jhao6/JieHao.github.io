@@ -17,7 +17,7 @@ Bilevel Optimization, Continual Learning, Machine Learning, Optimization.
 News
 ------
 - (Sep 2023) One paper was accepted by Neurips 2023. Thanks to my advisor Mingrui and Kaiyi.
-- (May 2023) One paper was accepted by UAI2023.
+- (May 2023) One paper was accepted by UAI 2023.
   
 Publications
 ------
