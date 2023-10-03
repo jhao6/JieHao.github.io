@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<font size="3">
 I'm a first-year Ph.D. student advised by Prof. [Mingrui Liu](https://mingrliu.github.io/) at [Department of Computer Science](https://cs.gmu.edu/), [George Mason University](https://www.gmu.edu/). Before that, I received my master's degree of compuer science from University of Electronic Science and Technology of China in 2021, advised by [William Zhu](https://scholar.google.com/citations?user=GIwXoWAAAAAJ&hl=zh-CN).  
 
 Research Interest
@@ -28,3 +28,4 @@ Publications
 - (<font color=red>New!</font>) [AUC Maximization in Imbalanced Lifelong Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=S8ZTkikAAAAJ&citation_for_view=S8ZTkikAAAAJ:2osOgNQ5qMEC)
   Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.
   In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (UAI 2023)      
+</font><br /> 
