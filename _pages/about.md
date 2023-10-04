@@ -17,6 +17,7 @@ Bilevel Optimization, Continual Learning, Machine Learning, Optimization.
 News
 ------
 - (Sep 2023) One paper was accepted by Neurips 2023. Thanks to my advisor Mingrui and Kaiyi.
+- (Aug 2023) I will serve as a reviewer for AISTATS 2024.
 - (May 2023) One paper was accepted by UAI 2023.
   
 Publications
@@ -29,3 +30,6 @@ Publications
   Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.
   In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (UAI 2023)      
 
+Services
+------
+- Reviewer of AISTATS 2024.
