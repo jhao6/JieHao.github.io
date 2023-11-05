@@ -26,7 +26,7 @@ Publications
   **Jie Hao**, Kaiyi Ji, Mingrui Liu.
   In Advances in Neural Information Processing Systems 37, 2023. (NeurIPS 2023)
 
-- (<font color=red>New!</font>) [AUC Maximization in Imbalanced Lifelong Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=S8ZTkikAAAAJ&citation_for_view=S8ZTkikAAAAJ:2osOgNQ5qMEC)
+- (<font color=red>New!</font>) [AUC Maximization in Imbalanced Lifelong Learning](https://proceedings.mlr.press/v216/zhu23a/zhu23a.pdf)
   Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.
   In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (UAI 2023)      
 
