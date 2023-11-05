@@ -22,7 +22,7 @@ News
   
 Publications
 ------
-- (<font color=red>New!</font>) [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://neurips.cc/virtual/2023/poster/72942)
+- (<font color=red>New!</font>) [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)
   **Jie Hao**, Kaiyi Ji, Mingrui Liu.
   In Advances in Neural Information Processing Systems 37, 2023. (NeurIPS 2023)
 
