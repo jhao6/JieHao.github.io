@@ -12,7 +12,7 @@ I'm a first-year Ph.D. student advised by Prof. [Mingrui Liu](https://mingrliu.g
 
 Research Interest
 ------
-Bilevel Optimization, Continual Learning, Machine Learning, Optimization.  
+Bilevel Optimization, Continual Learning, Optimization.  
 
 News
 ------
