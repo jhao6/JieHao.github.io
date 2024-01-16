@@ -16,6 +16,7 @@ Bilevel Optimization, Continual Learning, Theorem of optimization.
 
 News
 ------
+- (<font color=red>New!</font>) (Jan 2024) One paper was accepted by ICLR 2023 Spotlight. Thanks to my advisor Mingrui and my collaborator Xiaochuan Gong.
 - (Sep 2023) One paper was accepted by Neurips 2023. Thanks to my advisor Mingrui and Kaiyi.
 - (Aug 2023) I will serve as a reviewer for AISTATS 2024.
 - (May 2023) One paper was accepted by UAI 2023.
