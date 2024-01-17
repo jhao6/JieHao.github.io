@@ -25,7 +25,7 @@ Publications
 ------
 - (<font color=red>New!</font>) [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis]([https://openreview.net/pdf?id=2dtU9ZbgSN](https://jhao6.github.io/JieHao.github.io/))
   **Jie Hao**, Xiaochuan Gong, Mingrui Liu.
-  In International Conference on Learning Representations, 2024. (ICLR 2024)
+  In International Conference on Learning Representations, 2024. (ICLR 2024) (<font color=red>Spotlight, 5% acceptance rate</font>)
 
 - [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)
   **Jie Hao**, Kaiyi Ji, Mingrui Liu.
