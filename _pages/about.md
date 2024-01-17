@@ -27,11 +27,11 @@ Publications
   **Jie Hao**, Xiaochuan Gong, Mingrui Liu.
   In International Conference on Learning Representations, 2024. (ICLR 2024)
 
-- (<font color=red>New!</font>) [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)
+- [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)
   **Jie Hao**, Kaiyi Ji, Mingrui Liu.
   In Advances in Neural Information Processing Systems 37, 2023. (NeurIPS 2023)
 
-- (<font color=red>New!</font>) [AUC Maximization in Imbalanced Lifelong Learning](https://proceedings.mlr.press/v216/zhu23a/zhu23a.pdf)
+- [AUC Maximization in Imbalanced Lifelong Learning](https://proceedings.mlr.press/v216/zhu23a/zhu23a.pdf)
   Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.
   In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (UAI 2023)      
 
