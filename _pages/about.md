@@ -23,16 +23,16 @@ News
   
 Publications
 ------
-- (<font color=red>New!</font>) [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis]([https://openreview.net/pdf?id=2dtU9ZbgSN](https://jhao6.github.io/JieHao.github.io/))
-  **Jie Hao**, Xiaochuan Gong, Mingrui Liu.
+- (<font color=red>New!</font>) [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis]([https://openreview.net/pdf?id=2dtU9ZbgSN](https://jhao6.github.io/JieHao.github.io/))\
+  **Jie Hao**, Xiaochuan Gong, Mingrui Liu.\
   In the 12th International Conference on Learning Representations, 2024. (**ICLR** 2024) (<font color=red>Spotlight, 5% acceptance rate</font>)
 
-- [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)
-  **Jie Hao**, Kaiyi Ji, Mingrui Liu.
+- [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)\
+  **Jie Hao**, Kaiyi Ji, Mingrui Liu.\
   In Advances in Neural Information Processing Systems 37, 2023. (**NeurIPS** 2023)
 
-- [AUC Maximization in Imbalanced Lifelong Learning](https://proceedings.mlr.press/v216/zhu23a/zhu23a.pdf)
-  Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.
+- [AUC Maximization in Imbalanced Lifelong Learning](https://proceedings.mlr.press/v216/zhu23a/zhu23a.pdf)\
+  Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.\
   In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (**UAI** 2023)      
 
 Services
