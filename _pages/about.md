@@ -23,7 +23,7 @@ News
   
 Publications
 ------
-- (<font color=red>New!</font>) [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis]([https://openreview.net/pdf?id=2dtU9ZbgSN](https://openreview.net/forum?id=LqRGsGWOTX&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))\
+- (<font color=red>New!</font>) [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis](https://openreview.net/forum?id=LqRGsGWOTX&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))\
   **Jie Hao**, Xiaochuan Gong, Mingrui Liu.\
   In the 12th International Conference on Learning Representations, 2024. (**ICLR** 2024) (<font color=red>Spotlight, 5% acceptance rate</font>)
 
