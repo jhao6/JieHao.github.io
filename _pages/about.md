@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student advised by Prof. [Mingrui Liu](https://mingrliu.github.io/) at [Department of Computer Science](https://cs.gmu.edu/), [George Mason University](https://www.gmu.edu/) since Spring 2023. Before that, I received my master's degree of compuer science from University of Electronic Science and Technology of China, advised by [William Zhu](https://scholar.google.com/citations?user=GIwXoWAAAAAJ&hl=zh-CN). I work on designing efficient machine learning algorithms for practical problmes, including continual learning, meta-learning and natural language processing, and provide theoretical guatantees. 
+I'm a Ph.D. student advised by Prof. [Mingrui Liu](https://mingrliu.github.io/) at [Department of Computer Science](https://cs.gmu.edu/), [George Mason University](https://www.gmu.edu/) since Spring 2023. Before that, I received my master's degree of compuer science from University of Electronic Science and Technology of China, advised by [William Zhu](https://scholar.google.com/citations?user=GIwXoWAAAAAJ&hl=zh-CN). I focus on designing efficient machine learning algorithms for practical problmes, including continual learning, meta-learning and natural language processing, and provide theoretical guatantees. 
 
 Research Interest
 ------
