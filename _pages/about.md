@@ -37,5 +37,5 @@ Publications
 
 Services
 ------
-- ICLR 2024 Workshop SeT LLM Reviewer
+- ICLR 2024 Workshop SeT LLM Reviewer.
 - Reviewer of AISTATS 2024.
