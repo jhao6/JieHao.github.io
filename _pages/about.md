@@ -12,7 +12,7 @@ I'm a Ph.D. student advised by Prof. [Mingrui Liu](https://mingrliu.github.io/) 
 
 Research Interest
 ------
-Bilevel Optimization, Continual Learning, Meta-learning.  
+Bilevel Optimization, Continual Learning, Federated Learning, Parameter-Efficient Fine-Tuning for LLM.  
 
 News
 ------
