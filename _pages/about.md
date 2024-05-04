@@ -23,7 +23,11 @@ News
   
 Publications
 ------
-- (<font color=red>New!</font>) [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis](https://arxiv.org/pdf/2401.09587.pdf)\
+- (<font color=red>New!</font>) [A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://jhao6.github.io/JieHao.github.io/)
+  Xiaochuan Gong, **Jie Hao**, Mingrui Liu.
+  Proceedings of 41th International Conference on Machine Learning, 2024. (ICML 2024)
+
+- [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis](https://arxiv.org/pdf/2401.09587.pdf)\
   **Jie Hao**, Xiaochuan Gong, Mingrui Liu.\
   In the 12th International Conference on Learning Representations, 2024. (**ICLR** 2024) (<font color=red>Spotlight, 5% acceptance rate</font>)
 
