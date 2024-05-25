@@ -42,5 +42,6 @@ Publications
 
 Services
 ------
-- ICLR 2024 Workshop SeT LLM Reviewer.
+- Neurips 2024 reviewer.
+- ICLR 2024 Workshop SeT LLM reviewer.
 - Reviewer of AISTATS 2024.
