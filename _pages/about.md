@@ -16,7 +16,8 @@ Bilevel Optimization, Continual Learning, Federated Learning, Parameter-Efficien
 
 News
 ------
-- (<font color=red>New!</font>) (May 2024) One collaborative paper on bilevel optimization theory was accepted by **ICML** 2024. 
+- (<font color=red>New!</font>) (June 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
+- (May 2024) One collaborative paper on bilevel optimization theory was accepted by **ICML** 2024. 
 - (Jan 2024) One paper was accepted by **ICLR** 2024  <font color=red>Spotlight</font>. Thanks to my advisor Mingrui and my collaborator Xiaochuan Gong.
 - (Sep 2023) One paper was accepted by **Neurips** 2023. Thanks to my advisor Mingrui and Kaiyi.
 - (Aug 2023) I will serve as a reviewer for **AISTATS** 2024.
