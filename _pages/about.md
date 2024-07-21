@@ -24,7 +24,7 @@ News
   
 Publications
 ------
-- (<font color=red>New!</font>) [A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://jhao6.github.io/JieHao.github.io/)\
+- (<font color=red>New!</font>) [A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://openreview.net/pdf?id=36rWa8zVkh)\
   Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
   In the 41th International Conference on Machine Learning, 2024. (**ICML** 2024)
 
