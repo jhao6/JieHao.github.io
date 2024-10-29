@@ -27,9 +27,9 @@ News
 Publications
 ------
 
-- (<font color=red>New!</font>) [An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://arxiv.org/pdf/2409.19212)
- Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
-   In Advances in Neural Information Processing Systems 38, 2024. (**NeurIPS** 2024)
+- (<font color=red>New!</font>) [An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://arxiv.org/pdf/2409.19212)\
+  Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
+  In Advances in Neural Information Processing Systems 38, 2024. (**NeurIPS** 2024)
   
 - [A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://openreview.net/pdf?id=36rWa8zVkh)\
   Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
