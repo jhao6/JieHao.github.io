@@ -16,7 +16,8 @@ Bilevel Optimization, Continual Learning, Federated Learning, Parameter-Efficien
 
 News
 ------
-- (<font color=red>New!</font>) (June 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
+- (<font color=red>New!</font>)(Sep 2024) One paper was accepted by **Neurips** 2024. 
+- (June 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
 - (May 2024) One collaborative paper on bilevel optimization theory was accepted by **ICML** 2024. 
 - (Jan 2024) One paper was accepted by **ICLR** 2024  <font color=red>Spotlight</font>. Thanks to my advisor Mingrui and my collaborator Xiaochuan Gong.
 - (Sep 2023) One paper was accepted by **Neurips** 2023. Thanks to my advisor Mingrui and Kaiyi.
@@ -25,7 +26,12 @@ News
   
 Publications
 ------
-- (<font color=red>New!</font>) [A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://openreview.net/pdf?id=36rWa8zVkh)\
+
+- (<font color=red>New!</font>) [An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://arxiv.org/pdf/2409.19212)
+ Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
+   In Advances in Neural Information Processing Systems 38, 2024. (**NeurIPS** 2024)
+  
+- [A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://openreview.net/pdf?id=36rWa8zVkh)\
   Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
   In the 41th International Conference on Machine Learning, 2024. (**ICML** 2024)
 
