@@ -47,6 +47,9 @@ Publications
   Xiangyu Zhu, **Jie Hao**, Yunhui Guo, Mingrui Liu.\
   In the 39th Conference on Uncertainty in Artificial Intelligence, 2023. (**UAI** 2023)      
 
+Projects
+- I'm participating in the project of [AUDITION](https://math-digital-twin.github.io/). This project aims to develop the mathematical foundations for a digital twin (DT) system for individuals with autism spectrum disorder (ASD), focusing on dynamic modeling, prediction, uncertainty quantification, and treatment or intervention recommendation through DT-based optimization. 
+
 Services
 ------
 - ICML 2025 reviewer.
