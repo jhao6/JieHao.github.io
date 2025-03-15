@@ -23,7 +23,18 @@ News
 - (Sep 2023) One paper was accepted by **Neurips** 2023. Thanks to my advisor Mingrui and Kaiyi.
 - (Aug 2023) I will serve as a reviewer for **AISTATS** 2024.
 - (May 2023) One paper was accepted by **UAI** 2023.
-  
+
+Preprint
+------
+
+- [Personalized Federated Fine-tuning for Heterogeneous Data: An Automatic Rank Learning Approach via Two-Level LoRA](https://arxiv.org/pdf/2503.03920)\
+  **Jie Hao**, Yuman Wu, Ali Payani, Myungjin Lee, Mingrui Liu\
+  arXiv preprint arXiv: 2503.03920
+
+- [On the Convergence of Adam-Type Algorithm for Bilevel Optimization under Unbounded Smoothness](https://arxiv.org/pdf/2503.03908)\
+  Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
+  arXiv preprint arXiv: 2503.03908
+
 Publications
 ------
 
