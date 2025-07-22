@@ -67,6 +67,7 @@ I'm participating in the project of [AUDITION](https://math-digital-twin.github.
 
 Services
 ------
+- Neurips 2025 reviewer.
 - ICML 2025 reviewer.
 - ICLR 2024 reviewer.
 - EMNLP 2024 reviewer.
