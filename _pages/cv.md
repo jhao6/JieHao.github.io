@@ -15,4 +15,4 @@ Education
 * M.S. in University of Electronic Science and Technology of China, 2021
 * Ph.D in George Mason University, Jan. 2023-present
 
-
+[Download my full CV (PDF)]({{ base_path }}/files/Jie_Hao_CV (2).pdf)
