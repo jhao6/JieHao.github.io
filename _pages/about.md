@@ -42,7 +42,7 @@ Publications
 ------
 
 
-- (<font color=red>New!</font>) [Adaptive Algorithms with Sharp Convergence Rates for Stochastic Hierarchical Optimization](https://arxiv.org/pdf/2509.15399)
+- (<font color=red>New!</font>) [Adaptive Algorithms with Sharp Convergence Rates for Stochastic Hierarchical Optimization](https://arxiv.org/pdf/2509.15399)\
   Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
   In Advances in Neural Information Processing Systems 38, 2024. (**NeurIPS** 2024)
   
