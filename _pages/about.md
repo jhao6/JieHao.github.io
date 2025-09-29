@@ -18,7 +18,8 @@ Data selection for LLM, Bilevel Optimization, Continual Learning, Federated Lear
 
 News
 ------
-- (<font color=red>New!</font>)(Sep 2024) One paper was accepted by **Neurips** 2024. 
+- (<font color=red>New!</font>) (Sep 2025) One paper was accepted by **Neurips** 2025. 
+- (Sep 2024) One paper was accepted by **Neurips** 2024. 
 - (June 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
 - (May 2024) One collaborative paper on bilevel optimization theory was accepted by **ICML** 2024. 
 - (Jan 2024) One paper was accepted by **ICLR** 2024  <font color=red>Spotlight</font>. Thanks to my advisor Mingrui and my collaborator Xiaochuan Gong.
@@ -40,7 +41,13 @@ Preprint
 Publications
 ------
 
-- (<font color=red>New!</font>) [An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://arxiv.org/pdf/2409.19212)\
+
+- (<font color=red>New!</font>) [Adaptive Algorithms with Sharp Convergence Rates for Stochastic Hierarchical Optimization](https://arxiv.org/pdf/2509.15399)
+  Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
+  In Advances in Neural Information Processing Systems 38, 2024. (**NeurIPS** 2024)
+  
+
+- [An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness](https://arxiv.org/pdf/2409.19212)\
   Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
   In Advances in Neural Information Processing Systems 38, 2024. (**NeurIPS** 2024)
   
