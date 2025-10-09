@@ -29,7 +29,7 @@ News
 
 Preprint
 ------
-- [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](https://arxiv.org/pdf/2510.06048)\
+- [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining]([https://arxiv.org/pdf/2510.06048](https://arxiv.org/pdf/2510.06048))\
   **Jie Hao**, Rui Yu, Wei Zhang, Huixia Wang, Jie Xu, Mingrui Liu\
   arXiv preprint arXiv: 2510.06048
   
