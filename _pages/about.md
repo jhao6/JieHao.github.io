@@ -29,6 +29,10 @@ News
 
 Preprint
 ------
+- [Noise-Adaptive Layerwise Learning Rates: Accelerating Geometry-Aware Optimization for Deep Neural Network Training](https://arxiv.org/pdf/2510.14009)\
+  **Jie Hao**, Xiaochuan Gong, Jie Xu, Zhengdao Wang, Mingrui Liu\
+   arXiv preprint arXiv: 2510.14009 
+  
 - [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](https://arxiv.org/pdf/2510.06048)\
   **Jie Hao**, Rui Yu, Wei Zhang, Huixia Wang, Jie Xu, Mingrui Liu\
   arXiv preprint arXiv: 2510.06048
