@@ -18,7 +18,7 @@ Data selection for LLM, Bilevel Optimization, Continual Learning, Federated Lear
 
 News
 ------
-- (<font color=red>New!</font>) (Jan 2026) Our paper "Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm" was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
+- (<font color=red>New!</font>) (Jan 2026) Our paper about bilevel optimization with lower-level uniform convexity was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
 - (Sep 2025) One paper was accepted by **Neurips** 2025. 
 - (Sep 2024) One paper was accepted by **Neurips** 2024. 
 - (Jun 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
