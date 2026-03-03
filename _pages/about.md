@@ -50,8 +50,8 @@ Publications
 ------
 
 
-- (<font color=red>New!</font>) [Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm](https://arxiv.org/pdf/2603.00027)
-  Yuman Wu, Xiaochuan Gong, **Jie Hao**, Mingrui Liu
+- (<font color=red>New!</font>) [Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm](https://arxiv.org/pdf/2603.00027)\
+  Yuman Wu, Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
   In the 14th International Conference on Learning Representations, 2026. (**ICLR** 2026)
   
 - [Adaptive Algorithms with Sharp Convergence Rates for Stochastic Hierarchical Optimization](https://arxiv.org/pdf/2509.15399)\
