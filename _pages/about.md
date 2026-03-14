@@ -18,7 +18,8 @@ Data selection for LLM, Bilevel Optimization, Continual Learning, Federated Lear
 
 News
 ------
-- (<font color=red>New!</font>) (Mar 2026) I'll be joining Amazon as an Applied Scientist intern in Seattle this summer. 
+- (<font color=red>New!</font>) (Mar 2026) I'll be joining Amazon as an Applied Scientist intern in Seattle this summer.
+- (Mar 2026) Attended the National Artificial Intelligent Research Resource (NAIRR) Annual Meeting in Arlington VA and gave a presentation.
 - (Jan 2026) Our paper about bilevel optimization with lower-level uniform convexity was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
 - (Sep 2025) One paper was accepted by **Neurips** 2025. 
 - (Sep 2024) One paper was accepted by **Neurips** 2024. 
