@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third-year Ph.D. student at [Department of Computer Science](https://cs.gmu.edu/), [George Mason University](https://www.gmu.edu/)，advised by Prof. [Mingrui Liu](https://mingrliu.github.io/) and Prof. [Jie Xu](https://mason.gmu.edu/~jxu13/). I received my master's degree in compuer science from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), advised by [William Zhu](https://scholar.google.com/citations?user=GIwXoWAAAAAJ&hl=zh-CN), and bachelor's degree in EE from [Sichuan University](https://en.scu.edu.cn/). I focus on designing efficient machine learning algorithms for practical problems, including data selection for pretraining/fine-tuning in LLM, continual learning, meta-learning, and provide theoretical guatantees. 
 
-**<font color=red>I am currently looking for a research internship opportunity in 2026 summer related to large language model (LLM) training, optimization, or acceleration. Please feel free to contact me if there are any suitable opportunities, Thanks.</font>**
+<!-- **<font color=red>I am currently looking for a research internship opportunity in 2027 summer related to large language model (LLM) training, optimization, or acceleration. Please feel free to contact me if there are any suitable opportunities, Thanks.</font>**-->
 
 Research Interest
 ------
@@ -18,7 +18,8 @@ Data selection for LLM, Bilevel Optimization, Continual Learning, Federated Lear
 
 News
 ------
-- (<font color=red>New!</font>) (Jan 2026) Our paper about bilevel optimization with lower-level uniform convexity was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
+- (<font color=red>New!</font>) (Mar 2026) I'll be joining Amazon as an Applied Scientist intern in Seattle this summer. 
+- (Jan 2026) Our paper about bilevel optimization with lower-level uniform convexity was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
 - (Sep 2025) One paper was accepted by **Neurips** 2025. 
 - (Sep 2024) One paper was accepted by **Neurips** 2024. 
 - (Jun 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
