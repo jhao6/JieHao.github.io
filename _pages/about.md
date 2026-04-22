@@ -14,7 +14,7 @@ I'm a fourth-year Ph.D. student at [Department of Computer Science](https://cs.g
 
 Research Interest
 ------
-Data selection for LLM, Bilevel Optimization, Continual Learning, Federated Learning, Parameter-Efficient Fine-Tuning for LLM.  
+Data selection for LLM, Efficient LLM Optimizer Design, Federated Fine-tuning, Knowledge Distillation, Bilevel Optimization, Continual Learning.
 
 News
 ------
