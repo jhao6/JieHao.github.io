@@ -18,7 +18,8 @@ Data selection for LLM, Efficient LLM Optimizer Design, Federated Fine-tuning, K
 
 News
 ------
-- (<font color=red>New!</font>) (Mar 2026) I'll be joining Amazon as an Applied Scientist intern in Seattle this summer.
+- (<font color=red>New!</font>) (April 2026) Our paper "BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining" was accepted by **ICML** 2026. Congratulations to my collaborators.
+- (Mar 2026) I'll be joining Amazon as an Applied Scientist intern in Seattle this summer.
 - (Mar 2026) Attended the National Artificial Intelligent Research Resource (NAIRR) Annual Meeting in Arlington VA and gave a presentation.
 - (Jan 2026) Our paper about bilevel optimization with lower-level uniform convexity was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
 - (Sep 2025) One paper was accepted by **Neurips** 2025. 
@@ -36,10 +37,6 @@ Preprint
   **Jie Hao**, Xiaochuan Gong, Jie Xu, Zhengdao Wang, Mingrui Liu\
    arXiv preprint arXiv: 2510.14009 
   
-- [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](https://arxiv.org/pdf/2510.06048)\
-  **Jie Hao**, Rui Yu, Wei Zhang, Huixia Wang, Jie Xu, Mingrui Liu\
-  arXiv preprint arXiv: 2510.06048
-  
 - [Personalized Federated Fine-tuning for Heterogeneous Data: An Automatic Rank Learning Approach via Two-Level LoRA](https://arxiv.org/pdf/2503.03920)\
   **Jie Hao**, Yuman Wu, Ali Payani, Myungjin Lee, Mingrui Liu\
   arXiv preprint arXiv: 2503.03920
@@ -52,7 +49,11 @@ Publications
 ------
 
 
-- (<font color=red>New!</font>) [Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm](https://arxiv.org/pdf/2603.00027)\
+- (<font color=red>New!</font>) - [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](https://arxiv.org/pdf/2510.06048)\
+  **Jie Hao**, Rui Yu, Wei Zhang, Huixia Wang, Jie Xu, Mingrui Liu\
+  In the 42th International Conference on Machine Learning, 2024. (**ICML** 2026)
+
+- [Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm](https://arxiv.org/pdf/2603.00027)\
   Yuman Wu, Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
   In the 14th International Conference on Learning Representations, 2026. (**ICLR** 2026)
   
