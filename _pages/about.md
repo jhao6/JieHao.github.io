@@ -18,7 +18,7 @@ Data selection for LLM, Efficient LLM Optimizer Design, Federated Fine-tuning, K
 
 News
 ------
-- (April 2026) Our paper "BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining" was accepted by **ICML** 2026. Thanks to my collaborators.
+- (April 2026) Our paper "BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining" was accepted by **ICML** 2026. Thanks to all my collaborators.
 - (Mar 2026) I'll be joining Amazon as an Applied Scientist intern in Seattle this summer.
 - (Mar 2026) Attended the National Artificial Intelligent Research Resource (NAIRR) Annual Meeting in Arlington VA and gave a presentation.
 - (Jan 2026) Our paper about bilevel optimization with lower-level uniform convexity was accepted by **ICLR** 2026. Congratulations to my collaborators Yuman and Xiaochuan.
