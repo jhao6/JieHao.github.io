@@ -32,7 +32,8 @@ News
 - (May 2023) One paper was accepted by **UAI** 2023.
 
 Preprint
-------[Noise-Adaptive Layerwise Learning Rates: Accelerating Geometry-Aware Optimization for Deep Neural Network Training](https://arxiv.org/pdf/2510.14009)\
+------
+- [Noise-Adaptive Layerwise Learning Rates: Accelerating Geometry-Aware Optimization for Deep Neural Network Training](https://arxiv.org/pdf/2510.14009)\
   **Jie Hao**, Xiaochuan Gong, Jie Xu, Zhengdao Wang, Mingrui Liu\
    arXiv preprint arXiv: 2510.14009 
   
