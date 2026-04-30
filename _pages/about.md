@@ -51,7 +51,7 @@ Publications
 
 - [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](https://arxiv.org/pdf/2510.06048)\
   **Jie Hao**, Rui Yu, Wei Zhang, Huixia Wang, Jie Xu, Mingrui Liu\
-  In the 42th International Conference on Machine Learning, 2024. (**ICML** 2026)
+  In the 43th International Conference on Machine Learning, 2026. (**ICML** 2026)
 
 - [Bilevel Optimization with Lower-Level Uniform Convexity: Theory and Algorithm](https://arxiv.org/pdf/2603.00027)\
   Yuman Wu, Xiaochuan Gong, **Jie Hao**, Mingrui Liu.\
