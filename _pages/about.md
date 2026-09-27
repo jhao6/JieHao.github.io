@@ -84,7 +84,7 @@ Publications
 
 Experience
 ------
-Applied Scientist in Amazon, May 2026-Aug 2026:
+Amazon Applied Scientist Internship: 2026/5-2026/8, Seattle, WA, USA.
 - Built a self-evolving agent harness that learns from past failures to autonomously refine multi-agent decision policies without LLM retraining.
 - Developed a closed-loop evaluation and adaptation pipeline for validating agent updates and measuring generalization on future data.
 
