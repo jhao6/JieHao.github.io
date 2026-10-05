@@ -26,7 +26,7 @@ News
 - (Sep 2024) One paper was accepted by **Neurips** 2024. 
 - (Jun 2024) I will serve as a reviewer for **Neurips** 2024 and **EMNLP** 2024.
 - (May 2024) One collaborative paper on bilevel optimization theory was accepted by **ICML** 2024. 
-- (Jan 2024) One paper was accepted by **ICLR** 2024  <font color=red>Spotlight</font>. Thanks to my advisor Mingrui and my collaborator Xiaochuan Gong.
+- (Jan 2024) One paper was accepted by **ICLR** 2024 Spotlight. Thanks to my advisor Mingrui and my collaborator Xiaochuan Gong.
 - (Sep 2023) One paper was accepted by **Neurips** 2023. Thanks to my advisor Mingrui and Kaiyi.
 - (Aug 2023) I will serve as a reviewer for **AISTATS** 2024.
 - (May 2023) One paper was accepted by **UAI** 2023.
@@ -73,7 +73,7 @@ Publications
 
 - [Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis](https://arxiv.org/pdf/2401.09587.pdf)\
   **Jie Hao**, Xiaochuan Gong, Mingrui Liu.\
-  In the 12th International Conference on Learning Representations, 2024. (**ICLR** 2024) (<font color=red>Spotlight, 5% acceptance rate</font>)
+  In the 12th International Conference on Learning Representations, 2024. (**ICLR** 2024) (Spotlight, 5% acceptance rate)
 
 - [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN)\
   **Jie Hao**, Kaiyi Ji, Mingrui Liu.\
